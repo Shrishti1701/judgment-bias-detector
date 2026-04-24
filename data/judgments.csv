@@ -1,0 +1,11 @@
+judgment_text,court,case_type,gender,region,outcome
+The accused was found guilty based on strong evidence and witness testimony,Delhi Court,Criminal,Male,North,Guilty
+The accused was acquitted due to lack of sufficient evidence,Mumbai Court,Criminal,Female,West,Not Guilty
+The petition was dismissed due to lack of supporting documents,Karnataka Court,Civil,Male,South,Dismissed
+The court ruled in favor of the petitioner after reviewing all facts,Delhi Court,Civil,Female,North,Approved
+The appeal was rejected after careful consideration,Delhi Court,Civil,Male,North,Rejected
+The accused was convicted for financial fraud,Mumbai Court,Criminal,Male,West,Guilty
+The defendant was acquitted due to procedural errors,Karnataka Court,Criminal,Female,South,Not Guilty
+The court granted relief to the petitioner,Delhi Court,Civil,Female,North,Approved
+The case was dismissed due to insufficient grounds,Mumbai Court,Civil,Male,West,Dismissed
+The accused was found guilty of theft,Karnataka Court,Criminal,Male,South,Guilty
